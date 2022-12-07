@@ -1,3 +1,3 @@
 # Himanshu-Vishwas.github.io
 
-website : https://developer.devgroup.engineer
+website : https://himanshu-vishwas.github.io/portfolio
